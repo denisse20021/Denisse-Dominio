@@ -8,7 +8,7 @@
 
 ```bash $ git clone https://github.com/denisse20021/Denisse-Dominio```
 
-```bash $ cd Dendomin```
+```bash $ cd Dendominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
