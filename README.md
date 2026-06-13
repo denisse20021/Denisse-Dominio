@@ -1,0 +1,2 @@
+# Denisse-Dominio
+Script Termux 
